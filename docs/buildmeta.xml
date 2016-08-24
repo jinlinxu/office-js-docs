@@ -1,0 +1,5 @@
+<Builders>
+  <Item Name="DocToc"/>
+  <Item Name="DocReferences"/>
+  <Item Name="Image" />
+</Builders>
