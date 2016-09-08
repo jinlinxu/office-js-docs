@@ -1,8 +1,8 @@
 <DocSets>
-  <Item Name="Doc"  EntryFolder="docs">
+  <Item Name="Doc"  EntryFolder="docs" EntryUrl="/en-us/graph-test/jinlindocs/docs/overview/office-add-ins.htm">
     <Filter Name="Product" Value="Word;Excel;PowerPoint;Excel" />
   </Item>
-  <Item Name="Reference"  EntryFolder="reference">
+  <Item Name="Reference"  EntryFolder="reference" EntryUrl="/en-us/graph-test/jinlindocs/reference/openspec.htm">
     <Filter Name="Product" Value="Word;Excel;PowerPoint;Excel" />
     <Filter Name="Verion" Value="1.0;2.0;3.0" />
   </Item>
