@@ -1,0 +1,9 @@
+<DocSets>
+  <Item Name="Doc"  EntryFolder="docs">
+    <Filter Name="Product" Value="Word;Excel;PowerPoint;Excel" />
+  </Item>
+  <Item Name="Reference"  EntryFolder="reference">
+    <Filter Name="Product" Value="Word;Excel;PowerPoint;Excel" />
+    <Filter Name="Verion" Value="1.0;2.0;3.0" />
+  </Item>
+</DocSets>
